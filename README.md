@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @heroOfThyme
+- 👀 I’m interested in programming, engineering, and a huge advocate of space exploration 🚀
+- 🌱 I’m currently learning the full-stack developer career path on CodeCademy!
